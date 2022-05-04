@@ -1,3 +1,8 @@
+## How to build
+
+1. ```npm install```
+2. ```npm run dev```
+   
 ## How to use Osmosis Router
 
 1. Call function `getAllPools` to load all pools information.
